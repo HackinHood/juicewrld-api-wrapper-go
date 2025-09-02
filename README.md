@@ -368,7 +368,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Related Projects
 
-- [Python Wrapper](https://github.com/hackinhood/juicewrld-api-wrapper-go) - Original Python implementation
+- [Python Wrapper](https://github.com/hackinhood/juicewrld-api-wrapper) - Original Python implementation
 - [Juice WRLD API](https://juicewrldapi.com) - Official API documentation
 
 ## Support
@@ -380,3 +380,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Made with ❤️ for the Juice WRLD community**
+
